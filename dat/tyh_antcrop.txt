@@ -1,0 +1,4 @@
+cropname	luid	part	ftc1	fctc1	fotc	fdc	fday1	fdown1	mtc1	mctc1	motc1	mdc1	mday1	mdown1	ftc2	fctc2	fotc2	fdc2	fday2	fdown2	mtc2	mctc2	motc2	mdc2	mday2	mdown2	restc	resctc	resotc	resdc	resday	resdown	resfast	up1	up2	up3	bd1	bd2	bd3	bd4	bd5	ccmax1	ccmax2	gcmax1	gcmax2 	pnratio	upupper	phmax	phmax
+rice	4	0.8	0	0	0	0	0	0	2670000	13140000	22650000	9030000	164	0.3	0	0	0	0	0	0	0	0	0	0	0	0	40	5	40	5	250	0.3	0.5	12	1	0.09	139	164	281	0	0	0.7	0.1	0.1	0.2	0.4	0.3	1	1
+wheat	4	0.8	0	0	0	0	0	0	2670000	13140000	22650000	9030000	325	0.3	0	0	0	0	0	0	0	0	0	0	0	0	70	10	70	10	250	0.3	0.5	12	1	0.09	0	0	130	288	315	0.7	0.7	0.2	0.1	0.3	0.3	0.9	0.2
+forest	1	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	250	0.3	0.2	250	0.3	0.2	20	1	0.018	0	100	319	0	0	0.9	0.9	0.4	0.5	0.3	0.3	20	20

@@ -1,0 +1,19 @@
+
+Call:
+fast99(model = RMSE, factors = 11, n = 200, q = "qunif", q.arg = list(list(min = 0.1,     max = 1), list(min = 0.1, max = 1), list(min = 0.01, max = 0.5),     list(min = 5e-04, max = 0.005), list(min = 1.01, max = 1.1),     list(min = 5e-04, max = 0.005), list(min = 2, max = 86.6),     list(min = 4.7, max = 7.7), list(min = 1.42e-05, max = 0.133398),     list(min = 10, max = 1941), list(min = 0.000174, max = 0.022933)))
+
+Model runs: 2200 
+
+Estimations of the indices:
+     first order total order
+X1  0.1094987116  0.13047885
+X2  0.0075035184  0.02527417
+X3  0.0122351362  0.03284439
+X4  0.0001325179  0.01287269
+X5  0.0001405317  0.01297683
+X6  0.0001659854  0.01286151
+X7  0.0053710985  0.03831738
+X8  0.0079499055  0.04500063
+X9  0.8064383001  0.85708471
+X10 0.1601859543  0.22972984
+X11 0.0006893119  0.02231360

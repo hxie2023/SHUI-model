@@ -1,0 +1,35 @@
+ Project started date: 2023-11-10  time: 23:12:11
+----------------------------------------------------------------------
+  Simulator for catchment Hydrology and nUtrient Interactions (SHUI)  
+        version 1.1, 2023, by H.XIE, in NIGLAS, CAS, Nanjing          
+----------------------------------------------------------------------
+       SSSSSSSSSSSS   HHHHHH  HHHHHH  UUUUU    UUUUU  IIIIIIIII       
+      S::::SSSSSS:S    H::H    H::H   U::U     U::U   I:::::::I       
+      S:::S     SSS    H::H    H::H   U::U     U::U     I:::I         
+      S:::S            H::H    H::H   U::U     U::U     I:::I         
+      S::::S           H:::HHHH:::H   U::U     U::U     I:::I         
+         S::::S        H:::HHHH:::H   U::U     U::U     I:::I         
+          S:::::S      H:::HHHH:::H   U::U     U::U     I:::I         
+             S::::S    H:::HHHH:::H   U::U     U::U     I:::I         
+              S:::S    H::H    H::H   U::U     U::U     I:::I         
+      SSS     S:::S    HH:H    H::H   U:::UUUUU:::U     I:::I         
+      S:SSSSSS::::S    H::H    H::H   U:::::::::::U   I:::::::I       
+      SSSSSSSSSSSS    HHHHHH  HHHHHH   UUUUUUUUUUU    IIIIIIIII       
+----------------------------------------------------------------------
+ Project configured.                     
+ Aquifer data loaded.                    
+ Landuse type loaded.                    
+ Slope data loaded.                      
+ Soil types loaded.                      
+ Soil data loaded.                       
+ River data loaded.                      
+ Temperature data loaded.                
+ Parameter values set.                   
+ Model variables initialized.            
+ Domin loops started...                  
+ Domin loops completed.                  
+ Land routing completed.                 
+ River routing started...                
+ Model states recorded.                  
+ ----------------------------------------------------------------------
+ Project ended date: 2023-11-10  time: 23:12:33
